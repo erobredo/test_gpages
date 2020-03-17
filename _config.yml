@@ -1,4 +1,2 @@
 #Changed remote_theme
-plugins:
-  - jekyll-remote-theme
-remote_theme: y7kim/agency-jekyll-theme
+remote_theme: benbalter/retlab
